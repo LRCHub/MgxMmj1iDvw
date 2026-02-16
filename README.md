@@ -1,0 +1,71 @@
+# GIVĒON – KEEPER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Talking through your mom again
+Put this pride aside again
+I don't even know what time it is
+Is it even worth a try
+Tell me and I
+Couple things I can't defend
+I'm just trying to clean
+my hands of all that I've done
+Going green every time
+I send don't it?
+This type of night,
+I need you right here
+It's getting hard for me to say
+The thoughts of me
+in your apartment linger
+Getting harder to replace you
+Can't forget the way
+that I remember
+Ooh the way your lips
+Reminiscing about the tenderness
+When my days, turn to night
+I get to missing you
+I'm telling you baby
+I can't be what I'm not
+But you gonna be the one
+to change me
+I know that I'm enough
+but I'm just trying to be
+The one that you keep
+Not just the one
+who comes back around
+And drives you crazy, I swear
+Back around again
+Most nights had truth in it
+Break curfew like a kid
+I dry my fingertips
+Every time I lift your chin
+I'm trying to defend myself,
+all the times I was a man
+The crying breaks the win
+And this the night
+I need you here
+It's getting hard for me to say
+The thoughts me
+in your apartment linger
+Getting harder to replace you
+Can't forget the way
+that I remember
+Ooh the way your lips
+Reminiscing about the tenderness
+When my days, turn to night
+I get to missing you
+I'm telling you baby
+I can't be what I'm not
+But you gonna be the one
+to change me
+I know that I'm enough
+but I'm just trying to be
+The one that you keep
+Not just the one
+who comes back around
+And drives you crazy, I swear
+Back around again
+Can you hear me when I say,
+I just wanna be more
+```
