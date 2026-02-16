@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "KEEPER",
+  "base_artist": "GIVĒON",
+  "createdAt": "2026-02-16T20:23:34.362880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keeper of the Stars",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/01_Keeper_of_the_Stars_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keeper Of The Stars - Bonus Track",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/02_Keeper_Of_The_Stars_-_Bonus_Track_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Keeper of the Stars",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/03_The_Keeper_of_the_Stars_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Keeper Of The Stars (Album Version)",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/04_The_Keeper_Of_The_Stars_(Album_Version)_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Keeper Of The Stars - Radio Edit",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/05_The_Keeper_Of_The_Stars_-_Radio_Edit_Tracy_Byrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soul Keeper",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/06_Soul_Keeper_Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keeper Of The Flame",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/07_Keeper_Of_The_Flame_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keeper Of The Seven Keys",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/08_Keeper_Of_The_Seven_Keys_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keeper of the Seven Keys (Remix)",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/09_Keeper_of_the_Seven_Keys_(Remix)_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Keeper",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/10_A_Keeper_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keeper of the Garden",
+      "artist": "Ducktails",
+      "has_synced": false,
+      "path": "select/11_Keeper_of_the_Garden_Ducktails.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love the Lighthouse Keeper",
+      "artist": "The Nocturnes",
+      "has_synced": false,
+      "path": "select/12_I_Love_the_Lighthouse_Keeper_The_Nocturnes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shadow's Keeper",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/13_Shadow's_Keeper_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Keeper",
+      "artist": "Bonobo feat. Andreya Triana",
+      "has_synced": true,
+      "path": "select/14_The_Keeper_Bonobo_feat._Andreya_Triana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KEEPER",
+      "artist": "GIVĒON",
+      "has_synced": false,
+      "path": "select/pl_01_KEEPER_GIVĒON.txt"
+    }
+  ]
+}
